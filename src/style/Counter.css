@@ -1,0 +1,18 @@
+.counter{
+  width: 100px;
+  height: 200px;
+  margin: 20px auto;
+  font-size: 30px;
+}
+.counter button{
+  padding: 10px;
+  border-radius: 5px;
+  columns: white;
+  border: gray;
+  background-color: tomato;
+  
+}
+.subTotal{
+  font-size: 1rem;
+  font-weight: 600;
+}
